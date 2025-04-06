@@ -1,0 +1,286 @@
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@400;700&family=Comfortaa:wght@300..700&family=Philosopher:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Monomakh&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400..700;1,400..700&family=Press+Start+2P&family=Sofia+Sans+Condensed:ital,wght@0,1..1000;1,1..1000&display=swap');
+.zero{
+    background-image: url(https://i.pinimg.com/736x/35/2c/d4/352cd4ab6b03ad1dfd6017b247693489.jpg);
+}
+.one{
+    height: 100px;
+    background-color: rgba(50, 50, 131, 0.493);
+    display: flex;
+    color: rgb(211, 211, 247);
+    justify-content: space-around;
+    align-items: center;
+}
+.two{
+    font-family: "Monomakh", serif;
+}
+.three{
+    font-family: "Sofia Sans Condensed", serif;
+    width: 60%;
+    display: contents;
+}
+.four {
+    color: rgb(197, 209, 250);
+}
+.four:hover {
+    color: rgb(218, 175, 253);
+}
+.five {
+    height: 720px;
+    width: 1000px;
+    background-color: rgba(153, 198, 235, 0.404);
+    border-radius: 3%;
+    
+}
+.six {
+    height: 720px;
+    width: 1000px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url(https://i.pinimg.com/originals/f9/ea/9e/f9ea9efb690f39daeb1286f7a83c873f.gif);
+    margin: 20px;
+    border-radius: 3%;
+}
+.seven {
+    /* text-align: justify; */
+    color: rgb(32, 51, 77);
+    font-family: "Sofia Sans Condensed", serif;
+    margin: 20px;
+    border-radius: 3%;
+}
+.eight {
+    height: 760px;
+    width: 1040px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(54, 67, 143);
+    margin: 20px;
+    border-radius: 3%;
+}
+.eleven{
+    width: 80%;
+    color: rgb(119, 119, 189);
+    margin: 40px;
+    font-family: "Sofia Sans Condensed", serif;
+}
+.nine{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin: 40px; 
+    width: 35%;
+    position: relative;
+}
+.fifteen {
+    font-family: "Monomakh", serif;
+}
+.sixteen {
+   
+    margin: auto;
+    display: flex;
+    position: relative;
+    width: 1800px;
+    height: 900px;
+    background-color: rgb(193, 193, 235);
+    border-radius: 2%;
+    margin-top: 10px;
+}
+.seventeen {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 25px;
+}
+.eighteen {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 25px;   
+}
+.nineteen {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 25px;  
+}
+.twentythree {
+    color: rgb(156, 166, 211);
+    font-family: "Sofia Sans Condensed", serif;
+    text-align: center;
+}
+.bl-1{
+    position: relative;
+    width: 100%;
+    height: 900px;
+
+}
+.img-1 {
+    width: 250px;
+    height: 300px;
+}
+.img-10 {
+    position: absolute;
+    right: 0;
+    top: 35px;
+    width: 300px;
+    height: 200px;
+}
+.img-11 {
+    width: 300px;
+    height: 250px;
+}
+.twenty {
+    width: 20px;
+    height: 20px;
+    background:radial-gradient(rgb(102, 127, 197), rgb(47, 65, 116));
+    border-radius: 50%;
+    margin: 5px;
+}
+.twentyone {
+    width: 20px;
+    height: 20px;
+    background:radial-gradient(rgb(147, 171, 240), rgb(123, 144, 201));
+    border-radius: 50%;
+    margin: 5px;
+}
+.twentytwo {
+    width: 20px;
+    height: 20px;
+    background:radial-gradient(rgb(190, 205, 247), rgb(153, 171, 221));
+    border-radius: 50%;
+    margin: 5px;
+}
+.twentyfour {
+    width: 1280px;
+    height: 740px;
+    background-image: url(https://i.ytimg.com/vi/rPck_YVc0GI/maxresdefault.jpg);
+    border-radius: 2%;
+}
+.twentyfive {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.twentysix {
+    display: flex;
+flex-direction: column;
+    background: linear-gradient(rgba(255, 255, 255, 0.534), rgba(170, 185, 228, 0.575));
+    width: 1280px;
+    height: 740px;
+    border-radius: 2%;
+}
+.twentyseven {
+    width: 185px ;
+    height: 185px ;
+    margin: 20px;
+    border-radius: 2%;
+}
+.twentyeight {
+    width: 185px ;
+    height: 185px ;
+    margin: 20px;
+    border-radius: 2%;
+}
+.twentynine {
+    width: 185px ;
+    height: 185px ;
+    margin: 20px;
+    border-radius: 2%;
+}
+.music{
+    display: flex;
+    align-items: center;
+}
+.thirty {
+  
+    justify-content: left;
+   
+}
+.thirty {
+    
+    justify-content: right;
+   
+}
+.thirtyone {
+    font-family: "Philosopher", serif;
+    color: rgb(250, 235, 255);
+}
+.thirtytwo{
+    width: 1280px;
+    height: 225px;
+    margin: 10px;
+    background-color: rgba(187, 204, 241, 0.527);
+    border-radius: 2%;
+    display: flex;
+    align-items: center;
+}
+.thirtythree {
+    width: 1280px;
+    height: 225px;
+    margin: 10px;
+    background-color: rgba(195, 187, 241, 0.527);
+    border-radius: 2%;
+    display: flex;
+    justify-content: right;
+    align-items: center;
+}
+.thirtyfour{
+    width: 1280px;
+    height: 225px;
+    margin: 10px;
+    background-color: rgba(217, 187, 241, 0.527);
+    border-radius: 2%;
+    display: flex;
+    align-items: center;
+}
+.thirtyfive {
+    text-align: right;
+}
+
+.thirtyeight{
+      height: 1000px;
+      width: 1000px;
+}
+.thirtynine {
+    width: 30px;
+    height: 30px;
+    margin: 10px;
+}
+.fourty {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.thirtyy {
+    /* width: 1300px; */
+    height: 530px;
+    /* margin: 10px; */
+    width: 85%;
+    margin: auto;
+    border-radius: 15px;
+    margin-top: 20px;
+    margin-bottom: 40px;
+}
+.thirtyseven{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.thirtyseven img{
+    width: 350px;
+    height: 400px;
+    border-radius: 5px;
+    margin: 15px;
+}
+.thirtyyyy {
+    width: 1280px;
+    height: 400px;
+    margin: auto;
+    border-radius: 15px;
+}
+.twentyseven:hover {
+    
+}
